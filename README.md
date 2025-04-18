@@ -4,7 +4,7 @@
 
 This repository contains the solution from my YouTube video regarding the futility of using Try Catch blocks for non-exceptional exceptions.
 
-YouTube video: TBA
+YouTube video: https://youtu.be/5-qfQITr7ss
 
 Coffees welcomed : https://ko-fi.com/codedispenser
 
